@@ -3,7 +3,7 @@
 </script>
 <header class="bg-white py-4 shadow-md sticky top-0 z-10">
     <div class="container mx-auto my-auto px-4 flex justify-between items-center">
-        <h1 class="text-2xl font-bold font-['comic_Sans_MS'] border border-black rounded py-1 px-1 bg-green-300">CraftLab</h1>
+        <h1 class="text-2xl font-bold font-['comic_Sans_MS'] border border-black rounded py-1 px-1 bg-green-350">CraftLab</h1>
         <a href="/page-1" class="bg-blue-500 hover:bg-blue-900 text-white font-bold py-2 px-4 rounded">Add Post</a>
     </div>
 </header>
